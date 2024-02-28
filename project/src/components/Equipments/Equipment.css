@@ -1,0 +1,12 @@
+.detail{
+    text-align: center;
+}
+.bar{
+    /* background-color: red; */
+    display: inline;
+    color: red;
+}
+.horizontal-line{
+    color: red;
+    margin: 10px 20px;
+}
